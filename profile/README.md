@@ -14,4 +14,4 @@ issue in your own tracker with the page, the browser and the error attached.
 See it running in your browser at **[quibble.fyi](https://quibble.fyi)**.
 Early access: **hello@quibble.fyi**
 
-Made by John Cloonan.
+Made by J. Cloonan.
