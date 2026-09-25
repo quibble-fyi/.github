@@ -45,15 +45,18 @@ The widget and the loop back to the person who filed. Everything a submitter see
 - Run quibble as a sidecar container, so apps in any language can use it
 - Tell submitters what happened to the note they filed
 - Verify a signed identity token, not only a trusted proxy header
+- Jira Cloud as a tracker
+- An npm package for React, Vue and other single-page apps
 
 ### Later
 
 *Agreed and unscheduled. Real, but not a date.*
 
 - Jira Data Center and Jira Server as a tracker
-- Decide on Azure DevOps, Redmine and Bitbucket Data Center
+- Decide on Azure DevOps, Redmine, Bitbucket, YouTrack, Shortcut and ClickUp
 - Widget appearance options — position, theme and accent colour
 - GitHub App authentication, as an alternative to a long-lived token
+- Linear as a tracker
 
 ## Not started, on purpose
 
