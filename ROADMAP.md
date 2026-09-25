@@ -3,7 +3,7 @@
 What we're building, what's committed, and what we've deliberately not
 started. Generated from the issue tracker, so it cannot quietly go stale.
 
-*Last generated 24 September 2026.*
+*Last generated 25 September 2026.*
 
 ## Where the work is grouped
 
@@ -12,36 +12,30 @@ artefacts — a version number says what changed, not what it was for.
 
 ### Platform coverage
 
-`████████░░` **77%** — 17 done, 5 to go
+`██████░░░░` **60%** — 18 done, 12 to go
 
 Every tracker and framework claim is backed by a run against a real instance. 'supported' means tested, not inferred.
 
-### Reporter experience
-
-`█████░░░░░` **50%** — 5 done, 5 to go
-
-The widget and the loop back to the person who filed. Everything a submitter sees, and what happens after they press Save.
-
-### Ready to adopt
-
-`░░░░░░░░░░` **0%** — 0 done, 4 to go
-
-What stands between quibble working and someone outside the lab being able to use it: distribution, licence, and a public demo that proves the claims.
-
 ### Engineering hygiene
 
-`████████░░` **80%** — 8 done, 2 to go
+`█████░░░░░` **47%** — 9 done, 10 to go
 
 Tooling, CI and auth debt that slows every other milestone down. Nothing here is user-visible; all of it is why the rest can move.
 
+### Ready to adopt
+
+`░░░░░░░░░░` **0%** — 0 done, 8 to go
+
+What stands between quibble working and someone outside the lab being able to use it: distribution, licence, and a public demo that proves the claims.
+
+### Reporter experience
+
+`██████░░░░` **63%** — 12 done, 7 to go
+
+The widget and the loop back to the person who filed. Everything a submitter sees, and what happens after they press Save.
+
 
 ## What's next
-
-### Now
-
-*In flight.*
-
-- Run the tracker suite against real Gitea, Forgejo and GitLab on a schedule
 
 ### Next
 
@@ -59,7 +53,6 @@ Tooling, CI and auth debt that slows every other milestone down. Nothing here is
 - Jira Data Center and Jira Server as a tracker
 - Decide on Azure DevOps, Redmine and Bitbucket Data Center
 - Widget appearance options — position, theme and accent colour
-- Refreshed widget mark and design assets
 - GitHub App authentication, as an alternative to a long-lived token
 
 ## Not started, on purpose
