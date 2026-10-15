@@ -17,4 +17,3 @@ Early access: **hello@quibble.fyi**
 What we are building next, and what we have deliberately not started:
 **[roadmap](../ROADMAP.md)**.
 
-Made by J. Cloonan.
