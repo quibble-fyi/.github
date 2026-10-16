@@ -2,9 +2,10 @@
 
 ### The trouble with quibbles
 
-They start small: a button that does nothing, a heading that wraps wrong on a phone. Someone
-mentions one, and the questions start. Which page were you on? Which browser? Can you send a
-screenshot? The rest, nobody mentions, and one day the backlog is full of them.
+They start small: a button that does nothing, a heading that wraps wrong on a phone. Fuzzy
+little problems. Someone mentions one, and the questions start. Which page were you on? Which
+browser? Can you send a screenshot? The rest, nobody mentions. They multiply quietly, and one
+day the backlog is full of them, bulkhead to bulkhead.
 
 **quibble** gives people a button. They point at what's wrong and write a sentence. You get
 an issue in the tracker your team already uses, with the page, the thing they pointed at,
