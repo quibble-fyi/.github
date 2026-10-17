@@ -41,6 +41,6 @@ language).
 **[Try it live](https://quibble.fyi/demo/)**: the real quibble, running in your browser, no
 sign-up. More: [how it works](https://quibble.fyi/how-it-works/) ·
 [security](https://quibble.fyi/security/) · [pricing](https://quibble.fyi/pricing/) (free for
-individuals and small companies).
+individuals and small companies; larger companies, contact us).
 
 Early access: **hello@quibble.fyi**
