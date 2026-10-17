@@ -29,6 +29,15 @@ language).
 - **Private fields stay private.** Mark part of a page and its text is never sent;
   screenshots paint it out with a solid fill before the image leaves the browser.
 
+**The family:**
+- **quibble**, the package: in your app, `quibble serve` on your computer, an npm widget for
+  single-page apps, and an install skill for coding agents.
+- **quibble for your browser**: the extension, for sites you can't change.
+- **[quibble.fyi](https://quibble.fyi/)**: the site, with live demos of both.
+- **How we build it:** quibble-test runs every form of quibble on one machine with a live
+  quibble wired in, so quibble is tested by quibbling about it. qworkbench puts every screen
+  of every edition on one page for review.
+
 **[Try it live](https://quibble.fyi/demo/)**: the real quibble, running in your browser, no
 sign-up. More: [how it works](https://quibble.fyi/how-it-works/) ·
 [security](https://quibble.fyi/security/) · [pricing](https://quibble.fyi/pricing/) (free for
